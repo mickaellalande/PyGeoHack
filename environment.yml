@@ -9,6 +9,8 @@ dependencies:
   - nc-time-axis
   # CMIP6
   - intake-esm
+  - gcsfs
+  - zarr
   # Regrid
   - esmpy
   - xesmf
