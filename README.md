@@ -1,6 +1,6 @@
 # Promising tools for climate data analysis
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/mickaellalande/PyGeoHack/main?filepath=cold_bias_HMA_CMIP6.ipynb)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://hub.binder.pangeo.io/user/mickaellalande-pygeohack-flb1xhhj/lab?)
 
 About Pangeo Binder: https://pangeo-binder.readthedocs.io/en/prod/
 
