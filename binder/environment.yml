@@ -1,0 +1,36 @@
+name: pangeo
+channels:
+  - conda-forge
+dependencies:
+  # NetCDF files
+  - xarray
+  - netcdf4
+  - nc-time-axis
+  # Regrid
+  - esmpy
+  - xesmf
+  # Parallel
+  - dask
+  - distributed
+  - dask-kubernetes
+  - dask-labextension
+  # CMIP6
+  - gcsfs
+  - intake-esm
+  - zarr
+  # Plots
+  - proplot
+  - matplotlib=3.2
+  - cartopy
+  # Jupyter
+  - nbserverproxy
+  - jupyter
+  - jupyterlab=0.35
+  - jupyterlab_launcher
+  - jupyter_client
+  - ipywidgets
+  - graphviz
+  - nodejs
+  - pip:
+    - kubernetes
+    - graphviz
