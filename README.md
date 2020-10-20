@@ -1,6 +1,6 @@
 # Promising tools for climate data analysis
 
-[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://hub.binder.pangeo.io/user/mickaellalande-pygeohack-flb1xhhj/lab?)
+[![Binder](https://binder.pangeo.io/badge_logo.svg)](https://binder.pangeo.io/v2/gh/mickaellalande/pygeohack/main?urlpath=lab)
 
 About Pangeo Binder: https://pangeo-binder.readthedocs.io/en/prod/
 
